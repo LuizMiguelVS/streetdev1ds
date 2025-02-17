@@ -33,7 +33,7 @@ function fechaMenu()
                 }
                 else if (contador==2)
                 {
-                    document.getElementById("titulocarrossel").innerHTML = "Jóias";
+                    document.getElementById("titulocarrossel").innerHTML = "Joias";
                 }
                 else
                 {
@@ -66,7 +66,7 @@ function fechaMenu()
                 }
                 else if (contador==2)
                 {
-                    document.getElementById("titulocarrossel").innerHTML = "Jóias";
+                    document.getElementById("titulocarrossel").innerHTML = "Joias";
                 }
                 else
                 {
@@ -92,7 +92,7 @@ function fechaMenu()
                 }
                 else if (contador==2)
                 {
-                    document.getElementById("titulocarrossel").innerHTML = "Jóias";
+                    document.getElementById("titulocarrossel").innerHTML = "Joias";
                 }
                 else
                 {
